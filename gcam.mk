@@ -1,1 +1,1 @@
-PRODUCT_PACKAGES += CameraGo
+PRODUCT_PACKAGES += GoogleCameraGo
